@@ -1,0 +1,34 @@
+{
+  "name": "Blog-Application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benson96-git/Blog-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benson96-git/Blog-Application/issues"
+  },
+  "homepage": "https://github.com/Benson96-git/Blog-Application#readme",
+  "dependencies": {
+    "dompurify": "^2.4.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "jsdom": "^20.0.1",
+    "marked": "^4.1.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.6.5",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
