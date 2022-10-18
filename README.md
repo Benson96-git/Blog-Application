@@ -2,7 +2,7 @@
 
 This is a basic Blog-Application built using NodeJs with views rendered through EJS.
 
-##commands
+## Commands
 npm install
 npm start
 
